@@ -9,8 +9,8 @@ from Crypto.Util.Padding import pad, unpad
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 app = Flask(__name__)
-_ID  = '4425475024'
-_PW  = 'CKR_PRO_BOT_CPYBGMUBV'
+_ID  = '4300390692'
+_PW  = 'CKR_52C3N__HL9M7'
 _TTL = 6 * 60 * 60
 _cx  = {}
 _lk  = threading.Lock()
